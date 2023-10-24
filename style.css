@@ -1,0 +1,28 @@
+h1 {
+    color:darkslateblue;
+    text-align: center;
+}
+
+body {
+    background-color:pink;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+ul,
+.ingredients {
+    color: cornflowerblue;
+}
+
+ol,
+.steps {
+    color: cadetblue;
+}
+
